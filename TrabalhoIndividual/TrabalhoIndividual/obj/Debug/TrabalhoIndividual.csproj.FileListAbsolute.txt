@@ -1,0 +1,7 @@
+C:\Users\havan.DESADM125\Documents\Git\TrabalhoIndividualHavanLabs\TrabalhoIndividual\TrabalhoIndividual\bin\Debug\TrabalhoIndividual.exe.config
+C:\Users\havan.DESADM125\Documents\Git\TrabalhoIndividualHavanLabs\TrabalhoIndividual\TrabalhoIndividual\bin\Debug\TrabalhoIndividual.exe
+C:\Users\havan.DESADM125\Documents\Git\TrabalhoIndividualHavanLabs\TrabalhoIndividual\TrabalhoIndividual\bin\Debug\TrabalhoIndividual.pdb
+C:\Users\havan.DESADM125\Documents\Git\TrabalhoIndividualHavanLabs\TrabalhoIndividual\TrabalhoIndividual\obj\Debug\TrabalhoIndividual.csproj.AssemblyReference.cache
+C:\Users\havan.DESADM125\Documents\Git\TrabalhoIndividualHavanLabs\TrabalhoIndividual\TrabalhoIndividual\obj\Debug\TrabalhoIndividual.csproj.CoreCompileInputs.cache
+C:\Users\havan.DESADM125\Documents\Git\TrabalhoIndividualHavanLabs\TrabalhoIndividual\TrabalhoIndividual\obj\Debug\TrabalhoIndividual.exe
+C:\Users\havan.DESADM125\Documents\Git\TrabalhoIndividualHavanLabs\TrabalhoIndividual\TrabalhoIndividual\obj\Debug\TrabalhoIndividual.pdb
