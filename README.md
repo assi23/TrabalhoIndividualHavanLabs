@@ -16,7 +16,8 @@ Duas classes Pessoa jurídica e Pessoa física, ambas tem um endereço, para nã
 CRIAÇÃO DA CLASSE ENDERECO:<br>
 ![image](https://user-images.githubusercontent.com/68344454/125993958-a057301e-f652-4e77-b426-2d280a51565c.png)<br>
 
-COMPOSIÇÃO DE Pessoa Jurídica e Pessoa Física:
+COMPOSIÇÃO DE Pessoa Jurídica e Pessoa Física:<br>
+
 ![image](https://user-images.githubusercontent.com/68344454/125994095-f673c2be-ee5e-48f1-8274-2fdbda37cb03.png)<br>
 
 ![image](https://user-images.githubusercontent.com/68344454/125994212-e0803acd-b264-4886-9031-e103c271c603.png)<br>
