@@ -10,5 +10,6 @@ namespace TrabalhoIndividual
 	{
 		public string Nome { get; set; }
 		public DateTime DataNasc { get; set; }
+		public Endereco Endereco { get; set; }
 	}
 }

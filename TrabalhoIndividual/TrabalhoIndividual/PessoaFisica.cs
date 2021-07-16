@@ -11,6 +11,5 @@ namespace TrabalhoIndividual
 		public string RG { get; set; }
 		public string CPF { get; set; }
 
-		public Endereco endereco { get; set; }
 	}
 }

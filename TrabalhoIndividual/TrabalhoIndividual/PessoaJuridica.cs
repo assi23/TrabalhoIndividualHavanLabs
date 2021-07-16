@@ -10,7 +10,5 @@ namespace TrabalhoIndividual
 	{
 		public string IE { get; set; }
 		public string CNPJ { get; set; }
-
-		public Endereco endereco { get; set; }
 	}
 }
